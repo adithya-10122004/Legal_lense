@@ -49,29 +49,13 @@ npm or yarn
 A Google Gemini API Key (Get one at aistudio.google.com)
 
 
-Installation
-
-
-Clone the repository:
-code
-Bash
-git clone https://github.com/yourusername/legal-lense.git
-cd legal-lense
-Install dependencies:
-code
-Bash
-npm install
-Configure Environment Variables:
-Create a .env file in the root directory and add your API key:
-code
-Env
 API_KEY=your_google_gemini_api_key_here
 Run the development server:
 code
 Bash
 npm run dev
-Open the app:
-Visit http://localhost:5173 in your browser.
+
+
 
 
 
